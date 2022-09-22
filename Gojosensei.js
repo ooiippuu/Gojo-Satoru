@@ -3386,7 +3386,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 └┬❖  ${pushname} 
 ││✑مـعـك بـوت لورا 👋🏻
 ││✑مـن مـمـلـكـة جولد 🤗
-│└───────────────┈ ⳹
+│ 
   مـعـلـومـات عـن الـبـوت 
 │✙ اسـم الـبـوت  :  لورا ✨🤞🏻 
 │✙ رقـم الـمـالـك  : ${global.owner}
@@ -4047,7 +4047,7 @@ var unicorn = await getBuffer(picak+'.14.')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━ ${botname} ━━⭓ 
 ┃╔═✪ الزخرفة 	        
-┃╠زخرفة  انقلش | styletext
+┃╠زخرفة  انجلش | styletext
 ┃╚═════════════✪
 ┗━━ ${pushname} ━⭓`,unicorn, [{"urlButton": {"displayText": " قناتي 📍","url": `${myweb}`}},{"urlButton": {"displayText": " رابط الاستقبال 📌","url": `${sc}`}},{"quickReplyButton": {"displayText": " الاستلام 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": " المالك 👤","id": 'owner'}}] )
 break
