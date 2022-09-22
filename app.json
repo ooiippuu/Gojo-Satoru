@@ -1,7 +1,7 @@
 {
   "name": "______",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
+  "repository": "https://github.com/ooiippuu/lura",
   "logo": "https://images.app.goo.gl/edsMY9Y8AaadAcJL9",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
